@@ -1,0 +1,39 @@
+2025-08-14 13:45:56,831(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} Validating expected message.....
+2025-08-14 13:45:56,877(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} **** Finished TC001_AccountRegistrationTest *****
+2025-08-14 13:46:00,513(HH:mm:ss.SSS) [main] INFO  testCases.TC002_LoginTest {36} ***** Starting TC002_LoginTest *******
+2025-08-14 13:46:02,619(HH:mm:ss.SSS) [main] INFO  testCases.TC002_LoginTest {36} ***** Finished TC002_LoginTest ******
+2025-08-15 07:45:11,603(HH:mm:ss.SSS) [main] DEBUG org.testng.TestNG {36} suiteXmlPath: "C:\Work Space\master.xml"
+2025-08-15 07:45:32,238(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} ****** Starting TC001_AccountRegistrationTest *****
+2025-08-15 07:45:32,557(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} Clicked on MyAccount Link
+2025-08-15 07:45:33,422(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} Clicked on Register Link
+2025-08-15 07:45:33,452(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} providing customer details
+2025-08-15 07:45:35,838(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} Validating expected message.....
+2025-08-15 07:45:35,910(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} **** Finished TC001_AccountRegistrationTest *****
+2025-08-15 07:45:42,630(HH:mm:ss.SSS) [main] INFO  testCases.TC002_LoginTest {36} ***** Starting TC002_LoginTest *******
+2025-08-15 07:45:44,054(HH:mm:ss.SSS) [main] INFO  testCases.TC002_LoginTest {36} ***** Finished TC002_LoginTest ******
+2025-08-15 07:51:34,611(HH:mm:ss.SSS) [main] DEBUG org.testng.TestNG {36} suiteXmlPath: "C:\Work Space\master.xml"
+2025-08-15 07:51:38,237(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} ****** Starting TC001_AccountRegistrationTest *****
+2025-08-15 07:51:38,433(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} Clicked on MyAccount Link
+2025-08-15 07:51:52,590(HH:mm:ss.SSS) [main] INFO  testCases.TC002_LoginTest {36} ***** Starting TC002_LoginTest *******
+2025-08-15 07:51:54,694(HH:mm:ss.SSS) [main] INFO  testCases.TC002_LoginTest {36} ***** Finished TC002_LoginTest ******
+2025-08-15 07:52:50,191(HH:mm:ss.SSS) [main] DEBUG org.testng.TestNG {36} suiteXmlPath: "C:\Work Space\master.xml"
+2025-08-15 07:52:53,448(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} ****** Starting TC001_AccountRegistrationTest *****
+2025-08-15 07:52:53,539(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} Clicked on MyAccount Link
+2025-08-15 07:52:54,270(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} Clicked on Register Link
+2025-08-15 07:52:54,272(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} providing customer details
+2025-08-15 07:52:54,858(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} Validating expected message.....
+2025-08-15 07:52:55,691(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} **** Finished TC001_AccountRegistrationTest *****
+2025-08-15 07:52:58,658(HH:mm:ss.SSS) [main] INFO  testCases.TC002_LoginTest {36} ***** Starting TC002_LoginTest *******
+2025-08-15 07:53:00,348(HH:mm:ss.SSS) [main] INFO  testCases.TC002_LoginTest {36} ***** Finished TC002_LoginTest ******
+2025-08-15 08:11:04,001(HH:mm:ss.SSS) [main] DEBUG org.testng.TestNG {36} suiteXmlPath: "C:\Work Space\master.xml"
+2025-08-15 08:11:08,510(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} ****** Starting TC001_AccountRegistrationTest *****
+2025-08-15 08:11:08,646(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} Clicked on MyAccount Link
+2025-08-15 08:11:09,247(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} Clicked on Register Link
+2025-08-15 08:11:09,249(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} providing customer details
+2025-08-15 08:11:11,114(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} Validating expected message.....
+2025-08-15 08:11:11,177(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} **** Finished TC001_AccountRegistrationTest *****
+2025-08-15 08:11:14,193(HH:mm:ss.SSS) [main] INFO  testCases.TC002_LoginTest {36} ***** Starting TC002_LoginTest *******
+2025-08-15 08:11:15,982(HH:mm:ss.SSS) [main] INFO  testCases.TC002_LoginTest {36} ***** Finished TC002_LoginTest ******
+2025-08-15 08:28:11,036(HH:mm:ss.SSS) [main] DEBUG org.testng.TestNG {36} suiteXmlPath: "C:\Work Space\master.xml"
+2025-08-15 08:28:15,254(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} ****** Starting TC001_AccountRegistrationTest *****
+2025-08-15 08:28:15,450(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} Clicked on MyAccount Link

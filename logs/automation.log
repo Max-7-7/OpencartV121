@@ -1,0 +1,6 @@
+2025-08-15 08:28:16,053(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} Clicked on Register Link
+2025-08-15 08:28:16,061(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} providing customer details
+2025-08-15 08:28:17,827(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} Validating expected message.....
+2025-08-15 08:28:17,894(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest {36} **** Finished TC001_AccountRegistrationTest *****
+2025-08-15 08:28:22,132(HH:mm:ss.SSS) [main] INFO  testCases.TC002_LoginTest {36} ***** Starting TC002_LoginTest *******
+2025-08-15 08:28:24,277(HH:mm:ss.SSS) [main] INFO  testCases.TC002_LoginTest {36} ***** Finished TC002_LoginTest ******
